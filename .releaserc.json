@@ -10,7 +10,7 @@
             {
                 "preset": "angular",
                 "releaseRules": [
-
+                    {"type": "docs", "release": "patch"},
                     {"type": "chore", "release": "patch"}
                 ],            
                 "parserOpts": {

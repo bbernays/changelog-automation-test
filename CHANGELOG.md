@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.2](https://github.com/bbernays/changelog-automation-test/compare/v1.2.1...v1.2.2) (2022-01-12)
+
+
+### Bug Fixes
+
+* Update .gitignore ([2a5567b](https://github.com/bbernays/changelog-automation-test/commit/2a5567bf826e0d328c12527387e867566366400b))
+
 ## [1.2.1](https://github.com/bbernays/changelog-automation-test/compare/v1.2.0...v1.2.1) (2022-01-12)
 
 

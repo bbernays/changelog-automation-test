@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+# [0.1.0](https://github.com/bbernays/changelog-automation-test/compare/v0.0.3...v0.1.0) (2022-01-12)
+
+
+### Features
+
+* Manual invocation required ([faae1e9](https://github.com/bbernays/changelog-automation-test/commit/faae1e9bc020e0f837077ef0b15e26a97dd17f03))
+* nothing really ([316e610](https://github.com/bbernays/changelog-automation-test/commit/316e6102004c784523a8b799c082f3d0c456ad31))
+
 ## [0.0.3](https://github.com/bbernays/changelog-automation-test/compare/v0.0.2...v0.0.3) (2022-01-12)
 
 

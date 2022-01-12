@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.1](https://github.com/bbernays/changelog-automation-test/compare/v0.4.0...v0.4.1) (2022-01-12)
+
 # [0.4.0](https://github.com/bbernays/changelog-automation-test/compare/v0.3.0...v0.4.0) (2022-01-12)
 
 

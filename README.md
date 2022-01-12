@@ -10,6 +10,7 @@
 CloudQuery AWS Provider ![BuildStatus](https://img.shields.io/github/workflow/status/cloudquery/cq-provider-aws/test?style=flat-square) ![License](https://img.shields.io/github/license/cloudquery/cloudquery?style=flat-square)
 ==================================
 
+
 This [CloudQuery](https://github.com/cloudquery/cloudquery)
 provider transforms AWS resources to a relational database.
 

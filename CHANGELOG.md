@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+# [0.4.0](https://github.com/bbernays/changelog-automation-test/compare/v0.3.0...v0.4.0) (2022-01-12)
+
+
+### Bug Fixes
+
+* testing fix ([984e534](https://github.com/bbernays/changelog-automation-test/commit/984e534d747fbd7451b198f35a22bedeae2ff7da))
+
+
+### Features
+
+* Add Feature ([6877097](https://github.com/bbernays/changelog-automation-test/commit/687709722e7d3baf436260112d9710fd84fb7061))
+
 # [0.3.0](https://github.com/bbernays/changelog-automation-test/compare/v0.2.0...v0.3.0) (2022-01-12)
 
 

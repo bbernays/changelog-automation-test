@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.1.0](https://github.com/bbernays/changelog-automation-test/compare/v1.0.0...v1.1.0) (2022-01-12)
+
+
+### Features
+
+* Add New Binary ([a56e5b1](https://github.com/bbernays/changelog-automation-test/commit/a56e5b1ef7cc78707de3c6b6816cb5973f387d5a))
+
 # 1.0.0 (2022-01-12)
 
 

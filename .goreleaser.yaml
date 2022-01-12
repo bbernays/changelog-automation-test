@@ -30,11 +30,3 @@ changelog:
     exclude:
       - "^docs:"
       - "^test:"
-signs:
-  - artifacts: checksum
-    args:
-      - "--batch"
-      - "--output"
-      - "${signature}"
-      - "--detach-sign"
-      - "${artifact}"

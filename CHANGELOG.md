@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.2.0](https://github.com/bbernays/changelog-automation-test/compare/v1.1.0...v1.2.0) (2022-01-12)
+
+
+### Features
+
+* add go ([392d1f7](https://github.com/bbernays/changelog-automation-test/commit/392d1f778c47502504e512cc59fe0ca596b9c5a1))
+
 # [1.1.0](https://github.com/bbernays/changelog-automation-test/compare/v1.0.0...v1.1.0) (2022-01-12)
 
 

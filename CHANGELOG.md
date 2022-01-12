@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [0.3.0](https://github.com/bbernays/changelog-automation-test/compare/v0.2.0...v0.3.0) (2022-01-12)
+
+
+### Features
+
+* Unknown ([eef702f](https://github.com/bbernays/changelog-automation-test/commit/eef702f61b70d183bdfce21ff1878e4c3c971dee))
+
 # [0.2.0](https://github.com/bbernays/changelog-automation-test/compare/v0.1.0...v0.2.0) (2022-01-12)
 
 

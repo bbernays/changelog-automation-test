@@ -16,6 +16,7 @@ The [open-source](https://github.com/cloudquery/cloudquery) cloud asset inventor
 
 CloudQuery extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables. CloudQuery enables you to assess, audit, and evaluate the configurations of your cloud assets.
 
+
 ### Links
 * Homepage: https://cloudquery.io
 * Documentation: https://docs.cloudquery.io

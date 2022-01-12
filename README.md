@@ -16,6 +16,7 @@ provider transforms AWS resources to a relational database.
 
 ## What is CloudQuery
 
+
 The [open-source](https://github.com/cloudquery/cloudquery) cloud asset inventory powered by SQL.
 
 CloudQuery extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables. CloudQuery enables you to assess, audit, and evaluate the configurations of your cloud assets.

@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: bcoe/conventional-release-labels@v1
         with:
-          type_labels: { "breaking": ":rotating_light: BREAKING CHANGE", "feat": "feature", "fix": "fix", "docs": "docs", "chore": "chore", "enhancement": "enhancement", "breaking": "breaking-change" }
+          type_labels: '{ "breaking": ":rotating_light: BREAKING CHANGE", "feat": "feature", "fix": "fix", "docs": "docs", "chore": "chore", "enhancement": "enhancement", "breaking": "breaking-change" }'

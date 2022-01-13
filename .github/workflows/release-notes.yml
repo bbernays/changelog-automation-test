@@ -1,6 +1,10 @@
 name: release
 on:
-   workflow_dispatch:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
 jobs:
   release-notes:
     name: Release

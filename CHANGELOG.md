@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.4.0](https://github.com/bbernays/changelog-automation-test/compare/v1.3.0...v1.4.0) (2022-01-13)
+
+
+### Features
+
+* BREAKING CHANGE ([d32e6e2](https://github.com/bbernays/changelog-automation-test/commit/d32e6e221c50c8e894d54da8826cd4cc1902f023))
+
 # [1.3.0](https://github.com/bbernays/changelog-automation-test/compare/v1.2.2...v1.3.0) (2022-01-13)
 
 

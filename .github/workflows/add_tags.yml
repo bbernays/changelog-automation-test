@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: bcoe/conventional-release-labels@v1
         with:
-          type_labels: |
+          type_labels: | 
             {
               "breaking": ":rotating_light: BREAKING CHANGE",
               "feat": "feature",

@@ -8,15 +8,4 @@ jobs:
   label:
     runs-on: ubuntu-latest
     steps:
-      - uses: bcoe/conventional-release-labels@v1
-        with:
-          type_labels:
-            feat: feature
-            fix: fix
-            docs: docs
-            ci: ci
-            chore: chore
-            refactor: refactor
-            test: test
-            enhancement: enhancement
-            breaking: breaking-change
+      - uses: bcoe/conventional-release-labels@v1.3.0

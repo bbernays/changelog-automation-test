@@ -8,15 +8,6 @@ jobs:
   label:
     runs-on: ubuntu-latest
     steps:
-      - uses: bcoe/conventional-release-labels@v1
+      - uses: bcoe/conventional-release-labels@v1.3.0
         with:
-          type_labels:
-            feat: feature
-            fix: fix
-            docs: docs
-            ci: ci
-            chore: chore
-            refactor: refactor
-            test: test
-            enhancement: enhancement
-            breaking: breaking-change
+          type_labels: '{ "breaking": ":rotating_light: BREAKING CHANGE", "feat": "feature", "fix": "fix", "docs": "docs", "chore": "chore", "enhancement": "enhancement", "breaking": "breaking-change" }'

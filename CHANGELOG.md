@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.1](https://github.com/bbernays/changelog-automation-test/compare/v1.4.0...v1.4.1) (2022-01-13)
+
+
+### chore
+
+* **eslint:** upgrade linter plugins ([8d0b20a](https://github.com/bbernays/changelog-automation-test/commit/8d0b20a05eda59816ecad647f3d86164be6dd576))
+
+
+### BREAKING CHANGES
+
+* **eslint:** in ESLint 8 that was not yet addressed in a release of eslint-plugin-react-hooks.
+See https://stackoverflow.com/a/69578831.
+
 # [1.4.0](https://github.com/bbernays/changelog-automation-test/compare/v1.3.0...v1.4.0) (2022-01-13)
 
 

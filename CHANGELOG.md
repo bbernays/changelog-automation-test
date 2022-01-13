@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.2](https://github.com/bbernays/changelog-automation-test/compare/v1.4.1...v1.4.2) (2022-01-13)
+
+
+### chore
+
+* release ([b823751](https://github.com/bbernays/changelog-automation-test/commit/b82375191d03b3e3442d271933a82930de27966a))
+
+
+### BREAKING CHANGES
+
+* The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons.
+
 ## [1.4.1](https://github.com/bbernays/changelog-automation-test/compare/v1.4.0...v1.4.1) (2022-01-13)
 
 
